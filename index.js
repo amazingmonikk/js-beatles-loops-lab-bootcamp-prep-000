@@ -29,7 +29,7 @@ function iLoveTheBeatles(number) {
  
   
   do {array.push("I love the Beatles!");
-    i = i + 1;
+    number = number + 1;
     
   } while (number < 15);
   return array;
